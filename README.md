@@ -39,12 +39,13 @@ A passionate **Backend & Full-Stack Developer** from India
 ---
 
 ## 🚀 Projects & Interests
-- **Ticket Booking System (Java)** – A console-based project for managing train ticket bookings with JSON storage (future integration with Spring & DB).  
+- **Ticket Booking System (Java)** – A console-based project for managing train ticket bookings with JSON storage (future integration with Spring & DB). [View Project](https://github.com/amankumar-aj/akj_java_ticket_booking_app)  
 - **Haal Mausam Ka - Weather Forecast App** – A real-time weather forecast app showing current weather, 5-day forecasts, and AQI, built with **HTML, CSS, JavaScript**. [View App](https://amankumar-aj.github.io/AKj_weather_app/)  
 - **Countdown Timer Web App ⏳** – A fully responsive interactive countdown timer with Start, Pause, Resume, and Cancel features, built with **HTML, CSS, JavaScript**. [View App](https://amankumar-aj.github.io/Akj_CountDownTimer/)  
 - **Frontend Experiments** – Building UI/UX projects with **HTML, CSS, JS, React.js**.  
 - **Learning DevOps & Cloud** – Exploring **CI/CD, containerization, AWS, GCP**.  
 - Passionate about **backend systems, full-stack development, and practical project solutions**.
+
 
 ---
 
