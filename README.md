@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aman Jha
+# Hi 👋, I'm Aman Kumar Jha
 A passionate **Backend & Full-Stack Developer** from India  
 
 🔭 I’m currently working on **Java-based projects** and exploring **Spring Boot** for backend development.  
