@@ -23,7 +23,7 @@ A passionate **Backend & Full-Stack Developer** from India
   <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=c" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=sql" width="40" height="40" />
+  
   <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=css" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
