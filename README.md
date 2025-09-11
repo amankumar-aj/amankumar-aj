@@ -18,7 +18,21 @@ A passionate **Backend & Full-Stack Developer** from India
 
 ## 🛠 Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,python,c,sql,html,css,js,react,mysql,git&perline=5)
+<div style="display:flex; flex-wrap: nowrap; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=sql" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
+</div>
+
+
 
 ---
 
