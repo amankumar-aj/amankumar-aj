@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aman Kumar Jha
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/dedc988c-4131-49c1-9e83-ae76bb023ffe" /># Hi 👋, I'm Aman Kumar Jha
 A passionate ** Full-Stack Developer** from India  
 
 🔭 I’m currently working on **Java-based projects** and exploring **Spring Boot** for backend development.  
@@ -21,6 +21,8 @@ A passionate ** Full-Stack Developer** from India
 <div style="display:flex; flex-wrap: nowrap; gap:10px;">
   <img src="https://skillicons.dev/icons?i=java" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" />
+  <img  width="40" height="40"  alt="image" src="https://github.com/user-attachments/assets/a60203ba-5c55-4348-9376-61820535b872" />
+
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=c" width="40" height="40" />
   
@@ -30,6 +32,10 @@ A passionate ** Full-Stack Developer** from India
   <img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
+   <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>
+   <img  width="40" height="40"  alt="image" src="https://github.com/user-attachments/assets/dc353056-e839-4390-a612-78240b9deec2" />
+
+   
 </div>
 
 
