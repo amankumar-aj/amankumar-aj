@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/dedc988c-4131-49c1-9e83-ae76bb023ffe" /># Hi 👋, I'm Aman Kumar Jha
+# Hi 👋, I'm Aman Kumar Jha
 A passionate ** Full-Stack Developer** from India  
 
 🔭 I’m currently working on **Java-based projects** and exploring **Spring Boot** for backend development.  
