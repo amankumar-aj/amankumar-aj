@@ -1,18 +1,14 @@
 # Hi 👋, I'm Aman Kumar Jha
-A passionate ** Full-Stack Developer** from India  
+A passionate Full‑Stack Developer from India.
 
-🔭 I’m currently working on **Java-based projects** and exploring **Spring Boot** for backend development.  
+🔭 I’m currently building Java-based backend systems and exploring Spring Boot.  
+🌱 Learning Data Science, Machine Learning, DevOps and strengthening DSA.  
+💬 Ask me about Java, Backend Development, DevOps, and Ticket Booking Systems.
 
-🌱 I’m currently learning **Data Science, Machine Learning, DevOps**, and strengthening my **Data Structures & Algorithms** skills.  
-
-💬 Ask me about **Java, Backend Development, DevOps, and Ticket Booking Systems**.  
-
-📫 How to reach me:  
-- Email: **amankumar_aj@outlook.com**  
-- LinkedIn: [amankumar6174](https://www.linkedin.com/in/amankumar6174/)  
-- GitHub: [amankumar-aj](https://github.com/amankumar-aj)  
-
-⚡ Fun fact: I **love coding, building projects from scratch, and solving real-world problems**.  
+📫 Contact
+- Email: amankumar_aj@outlook.com  
+- LinkedIn: https://www.linkedin.com/in/amankumar6174/  
+- GitHub: https://github.com/amankumar-aj
 
 ---
 
@@ -32,32 +28,35 @@ A passionate ** Full-Stack Developer** from India
   <img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
-   <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>
-   <img  width="40" height="40"  alt="image" src="https://github.com/user-attachments/assets/dc353056-e839-4390-a612-78240b9deec2" />
-
-   
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>
+  <img  width="40" height="40"  alt="image" src="https://github.com/user-attachments/assets/dc353056-e839-4390-a612-78240b9deec2" />
 </div>
-
-
 
 ---
 
 ## 📊 Most Used Languages
 <img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/cec61d9f-e4d2-491f-bbed-f61e4e1f381e" />
 
-
 ---
 
 ## 🚀 Projects & Interests
-- **Ticket Booking System (Java)** – A console-based project for managing train ticket bookings with JSON storage (future integration with Spring & DB). [View Project](https://github.com/amankumar-aj/akj_java_ticket_booking_app)  
-- **Haal Mausam Ka - Weather Forecast App** – A real-time weather forecast app showing current weather, 5-day forecasts, and AQI, built with **HTML, CSS, JavaScript**. [View App](https://amankumar-aj.github.io/AKj_weather_app/)  
-- **Countdown Timer Web App ⏳** – A fully responsive interactive countdown timer with Start, Pause, Resume, and Cancel features, built with **HTML, CSS, JavaScript**. [View App](https://amankumar-aj.github.io/Akj_CountDownTimer/)  
-- **Frontend Experiments** – Building UI/UX projects with **HTML, CSS, JS, React.js**.  
-- **Learning DevOps & Cloud** – Exploring **CI/CD, containerization, AWS, GCP**.  
-- Passionate about **backend systems, full-stack development, and practical project solutions**.
+- **AI Email Response Generator (Smart AI Email Reply)** – Full‑stack AI email reply tool with React web app, Spring Boot backend (Gemini AI) and a Chrome extension that injects AI replies into Gmail. Live: [View App](https://smart-ai-email-reply-generator.netlify.app/) • Repo: [View Repo](https://github.com/amankumar-aj/smart-ai-email-reply-public-repo)
 
+- **Haal Mausam Ka - Weather Forecast App** – A real-time weather forecast app showing current weather, 5-day forecasts, and AQI, built with HTML, CSS, JavaScript. [View App](https://amankumar-aj.github.io/AKj_weather_app/)  
+
+- **Ticket Booking System (Java)** – A console-based project for managing train ticket bookings with JSON storage (future integration with Spring & DB). [View Project](https://github.com/amankumar-aj/akj_java_ticket_booking_app)  
+
+
+- **Countdown Timer Web App ⏳** – A fully responsive interactive countdown timer with Start, Pause, Resume, and Cancel features, built with HTML, CSS, JavaScript. [View App](https://amankumar-aj.github.io/Akj_CountDownTimer/)  
+
+- **Frontend Experiments** – UI/UX projects using HTML, CSS, JS, React.js.  
+
+- **Learning DevOps & Cloud** – Exploring CI/CD, containerization, AWS, GCP.  
+
+Passionate about backend systems, full‑stack development, and practical project solutions.
 
 ---
 
 ### ⚡ Fun Fact
-I **absolutely love coding and building projects from scratch**, especially backend systems that handle real-world scenarios.
+I absolutely love coding and building projects from scratch, especially backend systems that solve real-world problems.
+
