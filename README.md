@@ -17,6 +17,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/amankumar-aj?style=for-the-badge&color=00f2fe&labelColor=0d1117&label=FOLLOWERS)
 [![LeetCode](https://img.shields.io/badge/LeetCode-amankumar__aj-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amankumar_aj)
 [![HackerRank](https://img.shields.io/badge/HackerRank-amankumar__aj-2EC866?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/amankumar_aj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankumar6174/)
 
 </div>
 
