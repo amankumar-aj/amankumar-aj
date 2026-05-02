@@ -37,9 +37,9 @@ public class AmanKumarJha {
     String location          = "Noida, Uttar Pradesh 🇮🇳";
     String college           = "ABES Engineering College (B.Tech IT, 2023–2027)";
     double cgpa              = 8.72;
-    String[] roles           = {"Backend Engineer", "Full Stack Developer", "DevOps  & Cloud Enthusiasts"};
+    String[] roles           = {"Backend Engineer", "Full Stack Developer", "DevOps  & Cloud Enthusiast"};
     
-    String[] currentlyLearning = {"DevOps & Docker", "Cloud Architecture"};
+    String[] currentlyLearning = {"Docker & DevOps", "Cloud Architecture"};
     String   email            = "amankumar_aj@outlook.com";
     String   portfolio        = "amankumarjha-portfolio.netlify.app";
     String   github           = "github.com/amankumar-aj";
@@ -52,7 +52,7 @@ public class AmanKumarJha {
         // Projects with real impact
         System.out.println("✓ CloudSarathi - Full-stack cloud storage platform");
         System.out.println("✓ Smart AI Email Reply Generator - Chrome Extension + Backend");
-        System.out.println("✓ Multiple projects for learing like Java Console Based Ticket booking app, weatherApp, etc");
+        System.out.println("✓ Multiple projects for learning like Java Console Based Ticket booking app, weatherApp, etc");
     }
 }
 ```
@@ -241,7 +241,7 @@ public class AmanKumarJha {
 
 <div align="center">
 
-### 🤖 Smart AI Email Reply Generator – Chrome Extension + Backend
+### 🤖 Smart AI Email Reply Generator – Chrome Extension with Backend API
 
 </div>
 
@@ -418,7 +418,7 @@ Oct 2023 – Present
 |--------|-------|
 | 🔨 Full-Stack Projects | 3+ Production-Ready |
 | 📝 GitHub Repositories | Growing Daily |
-| 💻 Lines of Code Written | 10K+ |
+| 💻 Live Projects Deployed | 3+ |
 | 🧠 Hours Learning Backend Systems | 1000+ |
 | 🎯 LeetCode Status | Active Problem Solver |
 | 📚 Technologies Mastered | Java, Spring Boot, React, Databases |
