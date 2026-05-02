@@ -126,10 +126,20 @@ public class AmanKumarJha {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amankumar-aj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar-aj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9"/>
-</div>
 
+<table>
+<tr>
+<td>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amankumar-aj&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
+
+<td>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amankumar-aj&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
+
+</div>
 <br/>
 
 <div align="center">
