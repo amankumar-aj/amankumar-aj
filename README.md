@@ -144,9 +144,8 @@ public class AmanKumarJha {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amankumar-aj&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f2fe&ring=00f2fe&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=8b949e"/>
+  <img src="https://streak-stats.demolab.com?user=amankumar-aj&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f2fe&ring=00f2fe&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=8b949e"/>
 </div>
-
 <br/>
 
 <div align="center">
